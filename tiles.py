@@ -2,7 +2,7 @@
 
 #korytarze
 tiles = [
-    "## XX\nXX XX\nX  XX\nX XXX\n",
+    "XX XX\nXX XX\nX  XX\nX XXX\n",
 ]
 
 print (tiles[0])
